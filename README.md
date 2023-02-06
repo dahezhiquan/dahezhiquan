@@ -21,8 +21,8 @@ func GetBio() Bio {
 	return Bio{
 		"- ⚡ Quick bio:":                    "A kind of heavy programmer and cat lovers,A developer who understands security",
 		"- 🔭 I graduated from":              "Inner Mongolia University of Science and Technology, majoring in cyberspace security",
-		"- 🌱 I’m currently learning":        "Java, Golang, Python, PHP, C++, MySQL, MongoDB, SQLite, Redis, RabbitMQ, Docker, penetration testing",
-		"- 👯 I’m looking to collaborate on": "Python, Java and Docker related projects",
+		"- 🌱 I’m currently learning":        "Java, Python, GoLand, C++, PHP, MySQL, Redis, MongoDB, SQLite, Docker, penetration testing",
+		"- 👯 I’m looking to collaborate on": "Java, Python and Docker related projects",
 		"- 🤔 I’m looking for help with":     "Anything related to what I am currently learning 😅",
 		"- 💬 Ask me about":                  "Java, Python, PHP, SQL, Software Design & Architecture, hacker and SEO",
 		"- 📫 How to reach me:":              "My Wechat:dahezhiquan",
